@@ -1,0 +1,30 @@
+Bryan Huang bh2717a 
+
+Exercise 1:
+
+My home directory is my user folder 
+
+Exercise 2:
+
+The following command is for changing directory, with a folder path specified
+
+Exercise 3:
+
+-a: Include directory entries whose names begin with a period (".") which are hidden folders/files
+
+-l: lists files in the long format 
+
+Exercise 4:
+Stat command gave showed the name of the file,  the size of the file,  read/write access permissions and the user ID and group ID, creation date and time and last open date and time of the file.
+
+Exercise 5:
+Output: -rw-r--r--  1 bryanhuang  staff  0 Jul  7 17:30 myfile.txt
+
+The read/write permissions and the owner of the file, the group owner, the size of the file
+The name of the file, and a timestamp
+
+Exercise 6: Did that
+
+Exercise 7:
+Output: -rw-r--r--@ 1 bryanhuang  staff  26 Jul  7 17:39 myfile.txt
+The tilmestep is updated to when it was last changed 
